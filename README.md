@@ -11,6 +11,8 @@
 因为项目需要，做了一个自定义垂直跑马灯，分享给大家。
 
 效果图：
+![marquee.gif](https://maomao.ink/usr/uploads/2019/05/3470345687.gif)
+
 
 ![marquee.gif][1]
 [1]: https://maomao.ink/usr/uploads/2019/05/3470345687.gif
